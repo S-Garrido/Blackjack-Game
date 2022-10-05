@@ -15,11 +15,11 @@ This is a simple player vs dealer Blackjack game that I made for my Object-Orien
   - assessHand()
   - gameAssesment()
   - dealerShouldTakeCard()
-2. Deck.java
+- Deck.java
   - Deck()
   - shuffle()
   -dealOneCard()
-3. Rank.java
+- Rank.java
   - Rank()
   -getValue()
   
