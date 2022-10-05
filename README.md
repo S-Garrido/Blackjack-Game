@@ -1,7 +1,7 @@
 # Blackjack-Game
 
 This is a simple player vs dealer Blackjack game that I made for my Object-Oriented Programming II class. The professor provided outline code and I would implement the following functions:
-1. BlackjackModel.java
+- BlackjackModel.java
   - getDealerCards()
   - getPlayerCards()
   - setDealerCards()
