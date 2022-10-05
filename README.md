@@ -21,5 +21,5 @@ This is a simple player vs dealer Blackjack game that I made for my Object-Orien
   -dealOneCard()
 - Rank.java
   - Rank()
-  -getValue()
+  - getValue()
   
